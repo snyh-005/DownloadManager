@@ -1,0 +1,8 @@
+org/github/validator/UrlValidator.class
+org/github/controller/DownloadController.class
+org/github/service/DownloadService.class
+org/github/utils/ProgressManager.class
+org/github/utils/UrlUtils.class
+org/github/DownloadManagerApplication.class
+org/github/utils/DownloadUtils.class
+org/github/service/impl/DownloadServiceImpl.class
