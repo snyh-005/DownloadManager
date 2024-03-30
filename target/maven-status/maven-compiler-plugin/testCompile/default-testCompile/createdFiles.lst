@@ -1,0 +1,5 @@
+org/github/snyh005/service/DownloadServiceImplTests.class
+org/github/snyh005/utils/UrlUtilsTests.class
+org/github/snyh005/controller/DownloadControllerTests.class
+org/github/snyh005/validator/ProgressManagerTests.class
+org/github/snyh005/validator/UrlValidatorTests.class
